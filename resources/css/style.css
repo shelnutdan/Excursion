@@ -1,0 +1,34 @@
+#header {
+  font-familty:Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+#subheader, #anouncement{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+h2 {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align:center;
+
+}
+video,img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+  text-align: right;
+  color: gray;
+}
